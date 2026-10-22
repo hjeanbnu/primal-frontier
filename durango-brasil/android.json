@@ -1,10 +1,10 @@
 {
   "game": {
-    "versionName": "5.2.1-offserver",
-    "versionCode": 1,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3/Durango-Brasil-v2.3-Lite.apk",
-    "sha256": "80b2836a9ddc36aa90376fa73ae505d7d27afa191b646a3a146b58bcf6f6d2ff",
-    "size": 1115420693,
-    "notes": "Durango Brasil v2.3 Lite com dublagem PT-BR"
+    "versionName": "5.2.2-offserver",
+    "versionCode": 2,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3.1/Durango-Brasil-v2.3.1-Lite.apk",
+    "sha256": "69bfd1886600b69682f269fa474f2fbe01214a184b94f9071dfb0a0a7c07e87e",
+    "size": 1115453461,
+    "notes": "Auto-avanço dos diálogos, dublagem PT-BR e correção da aba Conta conectada."
   }
 }
