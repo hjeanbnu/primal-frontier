@@ -6,5 +6,13 @@
     "sha256": "69bfd1886600b69682f269fa474f2fbe01214a184b94f9071dfb0a0a7c07e87e",
     "size": 1115453461,
     "notes": "Auto-avanço dos diálogos, dublagem PT-BR e correção da aba Conta conectada."
+  },
+  "launcher": {
+    "versionName": "0.4.3",
+    "versionCode": 12,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/launcher-v0.4.3/DurangoBrasil-Launcher-0.4.3.apk",
+    "sha256": "1d4e6f7ccac6809c89b9d93089dc3e972aaba8280a88e9bc97a0140ed7c73670",
+    "size": 4457505,
+    "notes": "Launcher com atualização automática, download em segundo plano e ajustes de interface."
   }
 }
