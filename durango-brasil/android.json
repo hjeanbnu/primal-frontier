@@ -8,11 +8,11 @@
     "notes": "Auto-avanço dos diálogos, dublagem PT-BR e correção da aba Conta conectada."
   },
   "launcher": {
-    "versionName": "0.4.3",
-    "versionCode": 12,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/launcher-v0.4.3/DurangoBrasil-Launcher-0.4.3.apk",
-    "sha256": "1d4e6f7ccac6809c89b9d93089dc3e972aaba8280a88e9bc97a0140ed7c73670",
+    "versionName": "0.4.4",
+    "versionCode": 13,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/launcher-v0.4.4/DurangoBrasil-Launcher-0.4.4.apk",
+    "sha256": "855d49d9e3ef81ea002c610ad21b9d7861e6cdf539d6812d1da6568bd256f067",
     "size": 4457505,
-    "notes": "Launcher com atualização automática, download em segundo plano e ajustes de interface."
+    "notes": "Teste de atualização automática do launcher."
   }
 }
