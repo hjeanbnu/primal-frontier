@@ -8,11 +8,11 @@
     "notes": "Auto-avanço dos diálogos, dublagem PT-BR e correção da aba Conta conectada."
   },
   "launcher": {
-    "versionName": "0.5.1",
-    "versionCode": 20,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/launcher-v0.5.1/DurangoBrasil-Launcher-0.5.1.apk",
-    "sha256": "749e5a349ecab83e6f54ff047dc26550aa22250d916a94997bef901693389bf0",
+    "versionName": "0.5.2",
+    "versionCode": 21,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/launcher-v0.5.2/DurangoBrasil-Launcher-0.5.2.apk",
+    "sha256": "3a347a66a7e2ea11fb9bd5344242125f2d4f48106f69b527cdcfe18eae57b1ae",
     "size": 4461601,
-    "notes": "Launcher 0.5.1: correções de interface."
+    "notes": "Novo link do grupo principal do jogo e do servidor no WhatsApp, agora no rodapé do launcher. O grupo ORDEM deixou de ser o grupo do jogo; o novo grupo passa a ser o principal."
   }
 }
