@@ -1,11 +1,12 @@
 {
   "game": {
-    "versionName": "5.2.2-offserver",
-    "versionCode": 2,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3.1/Durango-Brasil-v2.3.1-Lite.apk",
-    "sha256": "69bfd1886600b69682f269fa474f2fbe01214a184b94f9071dfb0a0a7c07e87e",
-    "size": 1115453461,
-    "notes": "Auto-avanço dos diálogos, dublagem PT-BR e correção da aba Conta conectada."
+    "versionName": "5.2.3-offserver",
+    "versionCode": 3,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3.2/Durango-Brasil-v2.3.2-Lite.apk",
+    "sha256": "c64820edc1615d9b39f6f10dd031097873007c30f1488977052cf660f291a424",
+    "size": 1074358293,
+    "notes": "Opção de desativar o movimento por toque no terreno e versão automática no Reborn.",
+    "changelog": "DURANGO BRASIL 2.3.2\nAtualização em relação à 2.3.1\n\n Novo: Movimentação por toque no terreno\n- Em Configurações > aba Fanmod você escolhe se tocar no chão move o personagem.\n- Com a opção Desativado, um toque no terreno não move nem fecha o menu aberto, e não interrompe a coleta que estiver em andamento.\n- Arrastar o dedo continua movendo o personagem e cancelando a coleta, como sempre.\n- Joystick, tocar em objetos, NPCs, itens e a câmera não mudam.\n- Padrão: Ativado (igual ao jogo original). A mudança vale na hora e fica salva.\n\n Servidor Reborn\n- O jogo agora lê a versão mínima que o servidor exige e se ajusta sozinho. Acabou o erro \"versão do cliente abaixo da exigida\" na primeira tentativa.\n- O login continua pelo launcher, com a sua conta Durango ID.\n\n Dicas\n- Atualize pelo launcher. O personagem fica salvo no servidor.\n- Se o Android mostrar o aviso do Play Protect, toque em \"Instalar mesmo assim\".\n- A atualização tem ~1 GB: use Wi-Fi."
   },
   "launcher": {
     "versionName": "0.5.2",
