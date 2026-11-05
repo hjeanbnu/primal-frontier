@@ -1,12 +1,12 @@
 {
   "game": {
-    "versionName": "5.2.3-offserver",
-    "versionCode": 3,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3.2/Durango-Brasil-v2.3.2-Lite.apk",
-    "sha256": "c64820edc1615d9b39f6f10dd031097873007c30f1488977052cf660f291a424",
-    "size": 1074358293,
-    "notes": "Opção de desativar o movimento por toque no terreno, correção do volume e versão automática no Reborn.",
-    "changelog": "DURANGO BRASIL 2.3.2\nAtualização em relação à 2.3.1\n\n Novo: Movimentação por toque no terreno\n- Em Configurações > aba Fanmod você escolhe se tocar no chão move o personagem.\n- Com a opção Desativado, um toque no terreno não move nem fecha o menu aberto, e não interrompe a coleta que estiver em andamento.\n- Arrastar o dedo continua movendo o personagem e cancelando a coleta, como sempre.\n- Joystick, tocar em objetos, NPCs, itens e a câmera não mudam.\n- Padrão: Ativado (igual ao jogo original). A mudança vale na hora e fica salva.\n\n Volume do áudio\n- Corrigido: o volume que você deixava no mínimo voltava ao padrão quando o jogo reiniciava, mesmo com a barra mostrando o valor certo.\n- Agora efeitos, ambiente e música respeitam o que você salvou.\n\n Servidor Reborn\n- O jogo agora lê a versão mínima que o servidor exige e se ajusta sozinho. Acabou o erro \"versão do cliente abaixo da exigida\" na primeira tentativa.\n- O login continua pelo launcher, com a sua conta Durango ID.\n\n Dicas\n- Atualize pelo launcher. O personagem fica salvo no servidor.\n- Se o Android mostrar o aviso do Play Protect, toque em \"Instalar mesmo assim\".\n- A atualização tem ~1 GB: use Wi-Fi."
+    "versionName": "5.2.4-offserver",
+    "versionCode": 4,
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/durango-brasil-v2.3.3/Durango-Brasil-v2.3.3-Lite.apk",
+    "sha256": "54049c9e1fba39db3037ea266611630cb03e90534175d3b9e3273ac2bd2f773e",
+    "size": 1074382869,
+    "notes": "",
+    "changelog": "DURANGO BRASIL 2.3.3\nAtualização em relação à 2.3.2\n\n Novo: Câmera em 1ª e 3ª pessoa\n- O botão do olho (ao lado do minimapa) alterna a câmera: isométrica  3ª pessoa  1ª pessoa  isométrica.\n- A câmera isométrica agora é fixa e não gira mais. A câmera 360° foi removida.\n- Na 3ª e na 1ª pessoa, arraste o dedo na metade direita da tela para girar a câmera. Em 3ª pessoa, a pinça na direita dá zoom.\n- Esquerda e direita são independentes: o dedo esquerdo só move o personagem e o direito só move a câmera, ao mesmo tempo, sem travar.\n- Um toque rápido em qualquer lado continua abrindo o item tocado. A pinça na esquerda não faz nada.\n- Arrastar a câmera não faz mais o personagem se levantar da fogueira nem dar um passo para o lado.\n- Em Configurações > aba Fanmod há o controle Sensibilidade da câmera (de 0,3x até 5x).\n- Os cenários em câmera livre usam sprites 2D em alguns objetos (vegetação): o visual será melhorado em versões futuras.\n\n Coletar tudo\n- Agora coleta primeiro as opções que não destroem o recurso e deixa por último a opção marcada com  (a que esgota o recurso).\n- O botão fica abaixo do menu de itens e tem o mesmo tamanho dos botões dos itens (1,1x), em qualquer aparelho.\n\n Dicas\n- Atualize pelo launcher. O personagem fica salvo no servidor.\n- Se o Android mostrar o aviso do Play Protect, toque em \"Instalar mesmo assim\".\n- A atualização tem ~1 GB: use Wi-Fi."
   },
   "launcher": {
     "versionName": "0.5.2",
