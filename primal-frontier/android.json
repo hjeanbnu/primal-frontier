@@ -1,14 +1,21 @@
 {
   "game": {
-    "notes": "Primal Frontier 1.0.0 - primeira vers\u00e3o\n\nNOVO\n- Novo nome e novo aplicativo: Primal Frontier, com launcher pr\u00f3prio. Pode ficar instalado junto com o Durango Brasil.\n- Atualiza\u00e7\u00f5es pelo launcher: baixa s\u00f3 a diferen\u00e7a quando poss\u00edvel, confere a integridade e instala por cima, sem perder o personagem.\n- Entrar no Nexus pelo launcher (Google ou usu\u00e1rio e senha); o jogo reaproveita a sess\u00e3o.\n- Nova tela de t\u00edtulo e sele\u00e7\u00e3o de personagem, com barra de progresso e mensagens durante o carregamento, inclusive nas viagens de veleiro.\n- Entrada autom\u00e1tica no mundo, com bot\u00e3o CANCELAR.\n- Corrida autom\u00e1tica (arraste o stick para cima), avan\u00e7o autom\u00e1tico dos di\u00e1logos e toque para mover em todas as c\u00e2meras.\n- Campo de vis\u00e3o com 3 n\u00edveis: 50, 80 (padr\u00e3o) e 120.\n- Bot\u00e3o Mover (embrulhar e colocar constru\u00e7\u00f5es).\n- Modo Foto com op\u00e7\u00e3o de ocultar a interface.\n- Aba Fanmod reorganizada por categorias.\n- Op\u00e7\u00f5es de gr\u00e1ficos e desempenho: dist\u00e2ncia de vis\u00e3o, economia de energia e antisserrilhado (desativado por padr\u00e3o).\n- Grama 3D, ilumina\u00e7\u00e3o do mundo, c\u00e9u e atmosfera aprimorados.\n\nCORRE\u00c7\u00d5ES\n- CRIAR personagem nunca entra em um personagem j\u00e1 existente.\n- C\u00e2mera n\u00e3o d\u00e1 mais salto ao atravessar plantas.\n- Corre\u00e7\u00e3o de travamentos relacionados \u00e0 cabe\u00e7a e \u00e0 arma do personagem.\n- Inicializa\u00e7\u00e3o mais r\u00e1pida e mais est\u00e1vel.",
+    "delta": {
+      "baseSha256": "279004b30c65a31948ebb80c78f14a669c4d8967dffd0725a275fe00e8a56954",
+      "baseVersionCode": 10000,
+      "sha256": "bdacc7e8146d2c9635a890451bdbc85984d65d3dd75442b947a5b71f4ef163c5",
+      "size": 6322073,
+      "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/primal-frontier-v1.0.1/PrimalFrontier-1.0.1-delta.pfap"
+    },
+    "notes": "Primal Frontier 1.0.1 - ajustes na tela de t\u00edtulo\n\nCORRE\u00c7\u00d5ES\n- O aviso de f\u00e3s da tela de t\u00edtulo agora traz o texto do Primal Frontier e um fundo mais escuro, f\u00e1cil de ler.\n- A vers\u00e3o exibida no t\u00edtulo agora \u00e9 a 1.0.1 (antes aparecia 1.0.0-rc1).",
     "package": "br.com.primal.frontier.game",
-    "sha256": "279004b30c65a31948ebb80c78f14a669c4d8967dffd0725a275fe00e8a56954",
+    "sha256": "bec234561ccddd03fc61a20f402cc633f5f3e264f2d28222bb68f0515fcc9827",
     "signerCertSha256": "69418ce1f0ecdf0bca8ec8c800fc9c23213f7f22cb4957581aae4fb4ddab1b08",
     "size": 1124182186,
-    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/primal-frontier-v1.0.0/PrimalFrontier-1.0.0.apk",
-    "versionCode": 10000,
-    "versionName": "1.0.0"
+    "url": "https://github.com/hjeanbnu/primal-frontier/releases/download/primal-frontier-v1.0.1/PrimalFrontier-1.0.1.apk",
+    "versionCode": 10001,
+    "versionName": "1.0.1"
   },
   "schema": 2,
-  "sequence": 1000
+  "sequence": 1001
 }
